@@ -1,3 +1,9 @@
+A financial technology company needs to process real-time stock market data consisting of millions of trades every minute. Each trade record 
+includes the timestamp, stock symbol, trade price, and trade volume. To identify patterns and generate analytics, the trades must be sorted by 
+timestamp. For deeper insights, the company also requires sorting by stock symbol and grouping by trading volume trends.
+large-scale data efficiently is crucial for providing timely analytics to clients.
+
+
 #include <iostream>
 #include <vector>
 #include <string>
