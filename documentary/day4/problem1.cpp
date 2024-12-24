@@ -1,3 +1,7 @@
+A banking institution monitors transactions for potential fraud by analyzing patterns in transaction size, frequency, and geographical location
+The transactions are sorted by suspiciousness score, calculated using a combination of these factors. High-risk transactions are flagged for
+immediate review by analysts, requiring a robust and scalable sorting mechanism to handle millions of records daily.
+
 #include <iostream>
 #include <vector>
 #include <string>
